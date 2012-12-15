@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://a3ammar.github.com/blog/2012/12/04/first-post/</loc>
+        <loc>http://mnteq.com/blog/2012/12/04/first-post/</loc>
         <lastmod>2012-12-14T23:30:37+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/404.html</loc>
+        <loc>http://mnteq.com/404.html</loc>
         <lastmod>2012-12-08T20:36:56+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/about/</loc>
+        <loc>http://mnteq.com/about/</loc>
         <lastmod>2012-12-14T17:06:30+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/blog/archives/</loc>
+        <loc>http://mnteq.com/blog/archives/</loc>
         <lastmod>2012-12-14T23:30:37+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/</loc>
+        <loc>http://mnteq.com/</loc>
         <lastmod>2012-12-14T23:30:37+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/logic/</loc>
+        <loc>http://mnteq.com/logic/</loc>
         <lastmod>2012-12-11T14:00:38+03:00</lastmod>
     </url>
     <url>
-        <loc>http://a3ammar.github.com/logical-fallacies/</loc>
+        <loc>http://mnteq.com/logical-fallacies/</loc>
         <lastmod>2012-12-14T23:31:26+03:00</lastmod>
     </url>
 </urlset>
